@@ -1,0 +1,30 @@
+.MGS {
+    background-color: pink;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    border: dashed purple;
+}
+
+.Hideo {
+    border: ridge gold;
+    background-color: lightblue;
+
+}
+
+h2 {
+    color: purple;
+    background-color: lightblue;
+}
+
+html {
+    background-color: lightgreen;
+}
+
+.heed the words of a legend {
+    font-size: 20px;
+}
+
+img {
+    border: dashed blue;
+}
